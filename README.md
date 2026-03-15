@@ -1,7 +1,9 @@
 # A6: Naive RAG vs Contextual Retrieval
 
-**Course:** AT82.03 Machine Learning
+**Student Name:** Aphisit Jeamyaem
+
 **Student ID:** st126130
+
 **Chapter:** Chapter 10 — Masked Language Models (Jurafsky & Martin, 2026)
 
 ---
@@ -28,7 +30,6 @@ This assignment implements and compares two RAG (Retrieval-Augmented Generation)
 │   ├── app.py                          # Streamlit web application
 │   └── chapter10.pdf                   # Source document
 └── ref/
-    ├── chapter10.pdf
     └── NLP_2026_A6_RAG_Techniques.pdf
 ```
 
