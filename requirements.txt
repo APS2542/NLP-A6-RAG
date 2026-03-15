@@ -1,0 +1,12 @@
+openai
+chromadb
+langchain
+langchain-community
+langchain-text-splitters
+pymupdf
+rouge-score
+streamlit
+python-dotenv
+tiktoken
+numpy
+matplotlib
